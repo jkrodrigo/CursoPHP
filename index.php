@@ -1,6 +1,7 @@
 <?php
 
-    echo "site curso PHP novo";
-    
+    echo "site curso PHP novo 234";
 
+    echo "loucura";
+    
 ?>
